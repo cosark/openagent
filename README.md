@@ -101,6 +101,12 @@ Open [http://localhost:14000](http://localhost:14000) once the containers are ru
 
 ---
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Casibase/)
+
+---
+
 ## Features
 
 ### 🤖 30+ Model Providers
